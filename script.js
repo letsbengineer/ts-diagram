@@ -268,7 +268,7 @@ let connectionMode = { active: false, sourceIndex: null };
 let mousePos = { x: 0, y: 0 };
 let needsRedraw = false;
 let settings = { lineColor: '#000000', pointLabelColor: '#000000', lineLabelColor: '#000000', lineWidth: 2, saturationWidth: 3, showLegend: true, legendTitle: 'Legend', isDraggingEnabled: true, isZoomEnabled: true, isBendingEnabled: true };let isoLines = [];
-const API_BASE_URL = 'http://127.0.0.1:5000';
+const API_BASE_URL = 'https://letsbengineer00.pythonanywhere.com';
 const API_URL_PAIRS = `${API_BASE_URL}/calculate_from_pairs`;
 const API_URL_XLSX = `${API_BASE_URL}/export_xlsx`;
 const API_URL_TXT = `${API_BASE_URL}/export_txt`;
