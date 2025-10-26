@@ -3,6 +3,31 @@
 
 <img width="356" height="314" alt="image" src="https://github.com/user-attachments/assets/a399f346-f12d-41eb-a55a-5e7022512476" />
 
+##Example: Simple Input and Diagram
+
+<img width="1819" height="954" alt="image" src="https://github.com/user-attachments/assets/6c663176-0c17-4f03-9158-7e3d52c44b13" />
+
+Point Name	Phase	Pressure (kPa)	Temperature (°C)	Enthalpy (kJ/kg)	Entropy (kJ/kg·K)	Spec. Vol. (m³/kg)	Quality
+1	Saturated Liquid (x=0.0000e+00)	8.532608	42.75209903	178.9825103	0.608993726	0.001008975	0.0000
+2	Subcooled Liquid	80	42.75425679	179.05484	0.608993015	0.001008944	Not Available
+3	Subcooled Liquid	80	69.85981881	292.46767	0.953252246	0.001022652	Not Available
+4	Subcooled Liquid	6600	70.17326745	299.13536	0.953199204	0.001019867	Not Available
+5	Subcooled Liquid	6600	275.8678416	1214.9845	3.028162005	0.001318548	Not Available
+6	Subcooled Liquid	7100	276.0386435	1215.6437	3.028165855	0.001317744	Not Available
+7	Two Phase Mixture (x=0.1450)	6600	281.8758973	1468.5212	3.485390537	0.005383159	0.1450
+8	Two Phase Mixture (x=0.0500)	6600	281.8758973	1323.066	3.223321563	0.00273342	0.0500
+9	Two Phase Mixture (x=0.9500)	6600	281.8758973	2701.0622	5.706079483	0.027836202	0.9500
+10	Two Phase Mixture (x=0.8412)	1240	189.4514741	2470.5372	5.830660743	0.133256377	0.8412
+11	Two Phase Mixture (x=0.9900)	1240	189.4514741	2765.103	6.467422779	0.15662397	0.9900
+12	Two Phase Mixture (x=0.8841)	80	93.48535413	2401.6876	6.715225938	1.845416497	0.8841
+13	Saturated Liquid (x=0.0000e+00)	1240	189.46601	805.1206316	2.230674225	0.001140668	0.0000
+14	Two Phase Mixture (x=0.1819)	80	93.48535413	805.12063	2.360602506	0.380440651	0.1819
+15	Saturated Liquid (x=0.0000e+00)	80	93.48532053	391.6387578	1.232833675	0.001038492	0.0000
+16	Two Phase Mixture (x=0.9900)	80	93.48535413	2642.4423	7.371882425	2.066327881	0.9900
+17	Two Phase Mixture (x=0.9176)	8.532608	42.73774311	2380.7705	7.578975993	15.6306411	0.9176
+<img width="1058" height="614" alt="image" src="https://github.com/user-attachments/assets/e6b1a6c1-5105-42f9-86ed-248b3df1a528" />
+
+
 ##  Table of Contents
 
 1.  [Introduction: What Does This Tool Do?](#introduction)
