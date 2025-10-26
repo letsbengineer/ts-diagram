@@ -1,20 +1,5 @@
 <img width="1903" height="984" alt="image" src="https://github.com/user-attachments/assets/97bd77a4-723d-4eb7-b70d-37ff0784da3a" 
 />Welcome to the T-S Diagram Tool! This powerful web-based application is designed for visualizing, analyzing, and exporting thermodynamic processes and cycles. Whether you're an engineering student, an educator, or a professional, this guide will help you unlock the full potential of the tool.
-
-<img width="356" height="314" alt="image" src="https://github.com/user-attachments/assets/a399f346-f12d-41eb-a55a-5e7022512476" />
-
-##Example: Simple Input and Diagram
-
-<img width="1819" height="954" alt="image" src="https://github.com/user-attachments/assets/6c663176-0c17-4f03-9158-7e3d52c44b13" />
-
-##Example: Output Excel File
-
-<img width="1058" height="614" alt="image" src="https://github.com/user-attachments/assets/e6b1a6c1-5105-42f9-86ed-248b3df1a528" />
-
-<img width="1492" height="434" alt="image" src="https://github.com/user-attachments/assets/276c655e-6d88-4014-8d91-3b785250de05" />
-											
-<img width="1660" height="1014" alt="image" src="https://github.com/user-attachments/assets/40929bce-09c0-455f-bba9-bc710981fa54" />
-
 ##  Table of Contents
 
 1.  [Introduction: What Does This Tool Do?](#introduction)
